@@ -1,7 +1,7 @@
 
   # Web Portfolio UI Design
 
-  This is a code bundle for Web Portfolio UI Design. The original project is available at echo "node_modules/" > .gitignore
+  This is a code bundle for Web Portfolio UI Design. The original project is available at https://www.figma.com/design/HyD6xurbcNWqW0MpvYEfIh/Web-Portfolio-UI-Design.
 
   ## Running the code
 

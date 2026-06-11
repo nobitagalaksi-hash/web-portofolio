@@ -67,7 +67,7 @@ export function HeroSection() {
               <div className="absolute inset-[6px] rounded-full p-2 bg-card">
                 <div className="w-full h-full rounded-full border-4 border-primary/30 overflow-hidden bg-gradient-to-br from-muted to-accent/10">
                   <img 
-                    src="/profil.png" 
+                    src="/profil.jpg" 
                     alt="Arya Putra Rahman Dhika" 
                     className="w-full h-full object-cover"
                   />
